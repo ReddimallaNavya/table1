@@ -1,0 +1,41 @@
+
+   #t1 {
+    width: 60%;
+    height:50%;
+    border-collapse: collapse;
+    margin: 40px 0;
+    font-size: 1.2em;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  
+  #t2,th {
+    background-color: #2ae462;
+    color: rgb(29, 3, 3);
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 2px solid #dddddd;
+  }
+  
+
+  #t11,tr {
+    border-bottom: 1px solid #470fc9;
+  }
+  
+  #t11,tr:nth-child(even) {
+    background-color: #ddacd9;
+  }
+   
+  
+ 
+  #t11, td {
+    padding: 12px 15px;
+    text-align: left;
+  }
+  
+  
+  #t11, tr:hover {
+    background-color: #accfdd;
+  }
+  
